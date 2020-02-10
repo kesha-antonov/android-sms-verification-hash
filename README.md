@@ -1,4 +1,4 @@
-# Script to get hash for Automatic SMS Verification
+# Script to get hash for Automatic SMS Verification on Android
 
 Ruby implementation of this script: https://github.com/googlearchive/android-credentials/blob/master/sms-verification/bin/sms_retriever_hash_v9.sh
 
